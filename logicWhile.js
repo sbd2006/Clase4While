@@ -1,4 +1,4 @@
-var numeroEntrada = 0;
+/*  var numeroEntrada = 0;
 var resultado = 0;
 var control = 0;
 
@@ -10,3 +10,5 @@ while (numeroEntrada>control) {
 }
 
 alert("La suma de los primeros " +numeroEntrada+ " naturales es igula a " +resultado);
+
+*/
